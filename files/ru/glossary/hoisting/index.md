@@ -60,7 +60,7 @@ var y = 2;
 
 var x = 1; // Инициализируем x
 var y; // Объявляем y
-console.log(x + " " + y);  // '1 undefined'
+console.log(x + " " + y);  // '1 2'
 y = 2; // Инициализируем y
 ```
 
